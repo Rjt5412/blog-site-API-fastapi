@@ -1,7 +1,6 @@
 from email.policy import default
 from enum import unique
 from time import time
-from tkinter import TRUE
 from xmlrpc.client import Boolean
 from .database import Base
 
